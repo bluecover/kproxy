@@ -1,0 +1,6 @@
+# Aliyun Kafaka settings
+key = ""
+secret = ""
+cert_file = "config/ca-cert"
+servers = ["kafka-cn-internet.aliyun.com:8080"]
+topics = ["event"]
